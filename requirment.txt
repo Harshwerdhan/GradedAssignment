@@ -1,3 +1,7 @@
 psutil
 keyboard
 time
+os
+sys
+shutil
+datetime
